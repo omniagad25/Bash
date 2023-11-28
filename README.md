@@ -24,7 +24,7 @@
 #### 5- Print line from 5 to 15 from /etc/passwd
 ![UNFOUND](https://github.com/omniagad25/Bash/blob/b5ba81d3149820d8ddebbe38624f9549773b3694/Q5awk%20Lab1%20Bash.png)
 #### 6- Change lp to mylp
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Bash/blob/0b676d30d26191c62dc4dd8bc694795799f120b6/Q6awk%20Lab1%20Bash.png)
 #### 7- Print all information about greatest uid.
 ![UNFOUND](https://github.com/omniagad25/Bash/blob/b5ba81d3149820d8ddebbe38624f9549773b3694/Q7awk%20Lab1%20Bash.png)
 #### 8- Get the sum of all accounts id’s.
