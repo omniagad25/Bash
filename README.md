@@ -29,3 +29,22 @@
 ![UNFOUND](https://github.com/omniagad25/Bash/blob/b5ba81d3149820d8ddebbe38624f9549773b3694/Q7awk%20Lab1%20Bash.png)
 #### 8- Get the sum of all accounts id’s.
 ![UNFOUND](https://github.com/omniagad25/Bash/blob/b5ba81d3149820d8ddebbe38624f9549773b3694/Q8awk%20Lab1%20Bash.png)
+
+
+# Lab 3
+
+### 1. Write a script called mycase, using the case utility to checks the type of character entered by a user: 
+#### a. Upper Case.
+#### b. Lower Case.
+#### c. Number.
+#### d. Nothing.
+![UNFOUND](https://github.com/omniagad25/Bash/blob/32305fea9d088838dd3f9311e66e781407719363/Q1%20Lab3%20Bash.png)
+
+### 2. Enhanced the previous script, by checking the type of string entered by a user:
+#### a. Upper Cases.
+#### b. Lower Cases.
+#### c. Numbers.
+#### d. Mix.
+#### e. Nothing.
+![UNFOUND](https://github.com/omniagad25/Bash/blob/32305fea9d088838dd3f9311e66e781407719363/Q2%20Lab3%20Bash.png)
+
